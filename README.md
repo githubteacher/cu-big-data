@@ -2,6 +2,8 @@
 
 CU Big Data, Spring 2016
 
+:tada:
+
 ## Resources
 
 * https://education.github.com/pack the GitHub Education Pack
@@ -10,5 +12,3 @@ CU Big Data, Spring 2016
 * https://guides.github.com/
 * https://training.github.com/kit/ has cheat sheets
 * https://help.github.com/articles/good-resources-for-learning-git-and-github/ is our official list of learning resources
-
-
